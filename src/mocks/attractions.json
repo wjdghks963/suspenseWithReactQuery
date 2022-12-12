@@ -1,0 +1,133 @@
+[
+  {
+    "id": "3d32908d-72e3-4db1-8376-dc707c3d51121",
+    "name": "카오산 로드",
+    "description": "낮과 밤 서로 다른 매력을 지닌 번화한 거리",
+    "coverImageUrl": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_1024,w_1024/7b17a6dd-ea68-4804-b5b8-57fe656d982e.jpeg",
+    "reviews": {
+      "averageRating": 3.375,
+      "count": 1632
+    },
+    "like": {
+      "count": 30402
+    }
+  },
+  {
+    "id": "e767f33a-f4c7-4dcd-8062-4fcd01e74804",
+    "name": "투몬 비치",
+    "description": "많은 여행객이 찾는 괌 최고의 인기 해변",
+    "coverImageUrl": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_1024,w_1024/8c248604-99be-4169-8df9-0571693df93a.jpeg",
+    "reviews": {
+      "averageRating": 4.6,
+      "count": 99
+    },
+    "like": {
+      "count": 12367
+    }
+  },
+  {
+    "id": "21fc15f0-e534-44be-84b2-220838fe1015",
+    "name": "에펠탑",
+    "description": "프랑스 파리를 상징하는 세계적인 명소",
+    "coverImageUrl": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_1024,w_1024/ced20f9c-27aa-4780-8bde-4d97b14a62f0.jpeg",
+    "reviews": {
+      "averageRating": 2.36,
+      "count": 848
+    },
+    "like": {
+      "count": 23757
+    }
+  },
+  {
+    "id": "fa8278c8-dc22-4580-bcc0-0b2bd38bf90c",
+    "name": "한 시장",
+    "description": "전통 의복 '아오자이' 구입처로 유명한 다낭 최대 규모의 실내 재래 시장, 전통 의복 '아오자이' 구입처로 유명한 다낭 최대 규모의 실내 재래 시장",
+    "coverImageUrl": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_1024,w_1024/e0d8949b-c773-40d7-ab2e-afd1a82a1d0d.jpeg",
+    "reviews": {
+      "averageRating": 2.95,
+      "count": 42
+    },
+    "like": {
+      "isLiked": false,
+      "count": 40852
+    }
+  },
+  {
+    "id": "21bd8477-6d47-4b30-b653-4c5db94f0821",
+    "name": "민트 장난감 박물관",
+    "description": "8,000개 이상의 장난감을 볼 수 있는 박물관",
+    "coverImageUrl": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_1024,w_1024/8750f226-6db2-4e68-a79d-d99e1cb1cfbe.jpeg",
+    "reviews": {
+      "averageRating": 2.491,
+      "count": 6
+    },
+    "like": {
+      "count": 310
+    }
+  },
+  {
+    "id": "dcc642de-39d7-4211-b3fc-de5fd8677bca",
+    "name": "플리 런던 빈티지 앤 메이커스 마켓",
+    "description": null,
+    "coverImageUrl": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_1024,w_1024/398f615f-481d-49f3-bab8-dd8e5c185a37.jpeg",
+    "reviews": {
+      "averageRating": 0,
+      "count": 0
+    },
+    "like": {
+      "count": 8
+    }
+  },
+  {
+    "id": "afa20697-dcbc-4f57-90c9-83f02909309f",
+    "name": "스프링 스튜디오",
+    "description": "세계적으로 유명한 패션쇼 '뉴욕 패션 위크'가 열리는 스튜디오",
+    "coverImageUrl": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_1024,w_1024/bcf8b89c-972c-4097-847f-36e321e43e96.jpeg",
+    "reviews": {
+      "averageRating": 0.5,
+      "count": 2
+    },
+    "like": {
+      "count": 0
+    }
+  },
+  {
+    "id": "f37675cf-9b3f-44b8-b4d9-a4da67af8cbc",
+    "name": "왓 위쑨나랏",
+    "description": "황금 불상을 안치하기 위해 건립된 루앙프라방에서 가장 오래된 사원",
+    "coverImageUrl": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_1024,w_1024/0ddef248-d7f7-4a6f-8d74-dfe23731c546.jpeg",
+    "reviews": {
+      "averageRating": 1.325,
+      "count": 13
+    },
+    "like": {
+      "count": 88
+    }
+  },
+  {
+    "id": "58268db2-c6f7-4054-927a-2efa51415329",
+    "name": "시티 모스크",
+    "description": "포토 스팟으로 인기 있는 아름다운 이슬람 사원",
+    "coverImageUrl": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_1024,w_1024/5aacdcbd-6eb0-4136-86df-d18213464383.jpeg",
+    "reviews": {
+      "averageRating": 3.95,
+      "count": 59
+    },
+    "like": {
+      "count": 852
+    }
+  },
+  {
+    "id": "1d300b26-027b-454e-a0b8-f8925b6b153e",
+    "name": "화산 1914 문화 창의 산업원구",
+    "description": "문화와 예술을 위한 공간으로 탈바꿈한 옛 양조장 단지",
+    "coverImageUrl": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_1024,w_1024/12067e33-e449-4dcc-95f8-80505016ddb5.jpeg",
+    "reviews": {
+      "averageRating": 4.3,
+      "count": 3
+    },
+    "like": {
+      "count": 999
+    }
+  }
+]
