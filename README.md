@@ -1,15 +1,4 @@
-# 트리플 프론트엔드 엔지니어 채용 과제
-
-## 제출 방법
-
-[git bundle 명령어](https://git-scm.com/book/ko/v2/Git-%EB%8F%84%EA%B5%AC-Bundle)를 사용해서 제출 파일을 만듭니다.
-깃 레포지토리에서 다음을 입력하세요.
-
-```sh
-git bundle create <지원자 성함>.bundle HEAD main
-```
-
-생성된 `<지원자 성함>.bundle` 파일을 이메일을 통해 제출해 주세요.
+# react query를 이용한 suspense 사용 
 
 ## 구현 과정
 
