@@ -1,5 +1,4 @@
 import {
-  rerender,
   render,
   renderHook,
   screen,
@@ -10,7 +9,6 @@ import {
 import userEvent from "@testing-library/user-event";
 import { useQuery } from "react-query";
 import App from "../App";
-import TourPost from "../components/TourPost";
 import TestProvider from "./TestProvider";
 
 const fetchFn = async (keyword) => {

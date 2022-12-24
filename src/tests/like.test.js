@@ -75,7 +75,7 @@ test("API를 호출하여 좋아요, 좋아요 취소 상태를 새로고침에�
     const beforeImgMatcher =
       action === "like" ? lineHeartImgMatcher : fillHeartImgMatcher;
     const afterImgMatcher =
-      action === "like" ? fillHeartImgMatcher : lineHeartImgMatcher;
+      action === "unlike" ? fillHeartImgMatcher : lineHeartImgMatcher;
 
     const likeButton = screen.getAllByRole(
       (content, element) =>
