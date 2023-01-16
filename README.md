@@ -2,6 +2,10 @@
 
 벡엔드와 테스트해야할 케이스는 템플릿으로 제공받았습니다.
 
+# 영상
+
+![suspenseVideo](https://user-images.githubusercontent.com/74060017/212663656-6123eb8f-190a-46eb-830d-dadb46bc1ac3.gif)
+
 ## 사용한 라이브러리
 
 스타일 : styled-components
